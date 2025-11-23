@@ -6,9 +6,9 @@ Project Description (350 characters):
 We predict loan defaults using 68K+ Kenyan microfinance records merged with monthly economic indicators. After cleaning and feature engineering, we apply logistic regression, random forest, and gradient boosting to identify key risk drivers and evaluate how economic conditions influence borrower behavior.
 
 Team Members:
-Bruce Liu
-Allen Chiu
-Emily Su
+Bruce Liu,
+Allen Chiu,
+Emily Su,
 Grace Kung
 
 Files
